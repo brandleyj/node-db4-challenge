@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/brandleyj/node-db4-challenge/issues"
   },
-  "homepage": "https://github.com/brandleyj/node-db4-challenge#readme"
+  "homepage": "https://github.com/brandleyj/node-db4-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "knex": "^0.20.1",
+    "sqlite3": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
