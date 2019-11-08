@@ -11,7 +11,10 @@ exports.seed = function(knex) {
 				{ ingredient_name: "balsamic glaze" },
 				{ ingredient_name: "cheese" },
 				{ ingredient_name: "bread" },
-				{ ingredient_name: "butter" }
+				{ ingredient_name: "butter" },
+				{ ingredient_name: "flour" },
+				{ ingredient_name: "egg" },
+				{ ingredient_name: "olive oil" }
 			]);
 		});
 };
